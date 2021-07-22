@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ilja</h1>
-<h3 align="center">A passionate full stack developer from Austria</h3>
+# Hi 👋, I'm Ilja
+### A passionate full stack developer from Austria
 
-<img src="https://komarev.com/ghpvc/?username=justmedev&label=Profile%20views&color=0e75b6&style=flat" alt="justmedev" />
-
-<div style="display: flex;align-items: center;justify-content: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=justmedev&theme=onedark&&column=3&margin-w=15&margin-h=15" alt="justmedev" />
-</div>
+![Views](https://komarev.com/ghpvc/?username=justmedev&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I’m currently working on [Busket](https://busket.bux.at/)
 
@@ -19,7 +15,7 @@
 
 - ⚡ Fun fact **I tried making a nice portfolio like 4 times already, always disliked it a day later :/**
 
-<h3 align="left">Connect with me:</h3>
+## Get in touch
 <p align="left">
 <a href="https://instagram.com/ichbinsilja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ichbinsilja" height="30" width="40" /></a>
 </p>
