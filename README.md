@@ -27,8 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justmedev&show_icons=true&theme=onedark&locale=en&hide_border=true" alt="justmedev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justmedev&theme=dark" alt="justmedev" /></p>
-
-## Some stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=JustM3Dev&count_private=true&theme=algolia)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustM3Dev&layout=compact&theme=algolia)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justmedev&theme=onedark&hide_border=true)]
