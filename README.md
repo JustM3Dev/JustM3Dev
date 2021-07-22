@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ilja</h1>
 <h3 align="center">A passionate full stack developer from Austria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justmedev&label=Profile%20views&color=0e75b6&style=flat" alt="justmedev" /> </p>
+<img src="https://komarev.com/ghpvc/?username=justmedev&label=Profile%20views&color=0e75b6&style=flat" alt="justmedev" />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=justmedev&theme=onedark)]
-
+<div style="display: flex;align-items: center;justify-content: center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=justmedev&theme=onedark&&column=3&margin-w=15&margin-h=15" alt="justmedev" />
+</div>
 
 - 🔭 I’m currently working on [Busket](https://busket.bux.at/)
 
