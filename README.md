@@ -27,6 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justmedev&show_icons=true&theme=onedark&locale=en&hide_border=true" alt="justmedev" /></p>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justmedev&theme=onedark&hide_border=true)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justmedev&theme=onedark&hide_border=true)
 
 Made with ❤ using [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
